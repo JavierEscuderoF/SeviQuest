@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android SeviQuest</string>
+    <string name="title_activity_main">SeviQuest</string>
+    <string name="terminadas">Ended Polls</string>
+    <string name="propuesta">Submit your own poll</string>
+    <string name="namelogo">SeviQuest</string>
+    <string name="titulo">Title</string>
+    <string name="cuerpo">Body</string>
+    <string name="opA">Option A</string>
+    <string name="opB">Option B</string>
+    <string name="encuesta">Active Polls</string>
+    <string name="enviar">Send</string>
+
+</resources>

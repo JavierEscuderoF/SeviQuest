@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="letra">@android:color/black</color>
+    <color name="letra_sobre_fondo">@android:color/white</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="rojo">#B81626</color>
+    <color name="rojo_clarito">#EF7A86</color>
+    <color name="amarillo">#F8AE00</color>
+</resources>

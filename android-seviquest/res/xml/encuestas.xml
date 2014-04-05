@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item>
+        <titulo>Campus Cartuja</titulo>
+        <cuerpo>¿Llevarías más facultades al Campus de la Cartuja?</cuerpo>
+        <fecha>04/04/2014</fecha>
+        <opcionA>Sí</opcionA>
+        <opcionB>No</opcionB>
+    </item>
+    <item>
+        <titulo>Nombre del Parque</titulo>
+        <cuerpo>¿Cómo te gustaría que se llamase el parque principal del distrito?</cuerpo>
+        <fecha>03/04/2014</fecha>
+        <opcionA>HackForGood</opcionA>
+        <opcionB>Actívate</opcionB>
+    </item>
+        <item>
+        <titulo>Nuevo monumento</titulo>
+        <cuerpo>¿Cómo te gustaría que se llamase el nuevo monumento del centro de Sevilla?</cuerpo>
+        <fecha>02/04/2014</fecha>
+        <opcionA>Setas</opcionA>
+        <opcionB>Encarnación</opcionB>
+    </item>
+        <item>
+        <titulo>Vacaciones</titulo>
+        <cuerpo>¿En qué mes prefieres irte de vacaciones?</cuerpo>
+        <fecha>01/04/2014</fecha>
+        <opcionA>Julio</opcionA>
+        <opcionB>Agosto</opcionB>
+    </item>
+</resources>

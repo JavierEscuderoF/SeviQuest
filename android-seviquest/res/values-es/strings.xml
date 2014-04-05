@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android SeviQuest</string>
+    <string name="title_activity_main">SeviQuest</string>
+    <string name="terminadas">Encuestas terminadas</string>
+    <string name="propuesta">Envía tu encuesta</string>
+    <string name="namelogo">SeviQuest</string>
+    <string name="titulo">Título</string>
+    <string name="cuerpo">Cuerpo</string>
+    <string name="opA">Opción A</string>
+    <string name="opB">Opción B</string>
+    <string name="encuesta">Encuestas activas</string>
+	<string name="enviar">Enviar</string>
+</resources>

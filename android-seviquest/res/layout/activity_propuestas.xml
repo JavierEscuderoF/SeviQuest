@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/amarillo"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="4dp"
+        android:background="@color/rojo" />
+
+    <TextView
+        android:id="@+id/labeltitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulo"
+        android:textSize="26sp" />
+
+    <EditText
+        android:id="@+id/proptitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:textSize="26sp" >
+    </EditText>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/rojo" />
+
+    <TextView
+        android:id="@+id/labelcuerpo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cuerpo"
+        android:textSize="26sp" />
+
+    <EditText
+        android:id="@+id/propcuerpo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:textSize="26sp" >
+    </EditText>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/rojo" />
+
+    <TextView
+        android:id="@+id/labelopciona"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/opA"
+        android:textSize="26sp" />
+
+    <EditText
+        android:id="@+id/propopciona"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:textSize="26sp" >
+    </EditText>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/rojo" />
+
+    <TextView
+        android:id="@+id/labelopcionb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/opB"
+        android:textSize="26sp" />
+
+    <EditText
+        android:id="@+id/propopcionb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:textSize="26sp" >
+    </EditText>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="4dp"
+        android:background="@color/rojo" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="8dp"
+        android:background="@color/amarillo" />
+
+    <Button
+        android:id="@+id/botonenviar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:drawableLeft="@drawable/ic_action_send_now"
+        android:text="@string/enviar"
+        android:textColor="@color/blanco"
+        android:textSize="26sp" />
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+	<View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/rojo" />
+    
+    <ListView
+        android:id="@+id/ListaEncuestas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/rojo"
+        android:dividerHeight="1dp" />
+
+	<View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/rojo" />
+    
+</LinearLayout>
